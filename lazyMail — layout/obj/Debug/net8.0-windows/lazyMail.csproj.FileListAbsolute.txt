@@ -1,0 +1,17 @@
+C:\Users\macie\source\repos\lazyMail\bin\Debug\net8.0-windows\lazyMail.exe
+C:\Users\macie\source\repos\lazyMail\bin\Debug\net8.0-windows\lazyMail.deps.json
+C:\Users\macie\source\repos\lazyMail\bin\Debug\net8.0-windows\lazyMail.runtimeconfig.json
+C:\Users\macie\source\repos\lazyMail\bin\Debug\net8.0-windows\lazyMail.dll
+C:\Users\macie\source\repos\lazyMail\bin\Debug\net8.0-windows\lazyMail.pdb
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.Form1.resources
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.csproj.GenerateResource.cache
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.AssemblyInfo.cs
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.dll
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\refint\lazyMail.dll
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.pdb
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.genruntimeconfig.cache
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\ref\lazyMail.dll
+C:\Users\macie\source\repos\lazyMail\obj\Debug\net8.0-windows\lazyMail.Properties.Resources.resources
